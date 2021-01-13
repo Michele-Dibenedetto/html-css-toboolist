@@ -1,0 +1,121 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #d3d3d366;
+  font-family: sans-serif;
+}
+
+header{
+  height: 70px;
+  background-color: white;
+  margin-bottom: 4%;
+}
+.header{
+  padding-top: 0.5%;
+  padding-left: 1%;
+}
+.logo{
+  vertical-align: middle;
+}
+.title{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 40px;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  background-color: white;
+}
+
+.top{
+  border-bottom: solid 3px #d3d3d366;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 8%;
+}
+.botton_task{
+  border-radius: 5px;
+  border: solid 2px; lightgrey;
+  background-color: #00b2ffd4;
+  color: white;
+  border-width: 1px;
+  height: 25px;
+}
+.botton_section{
+  border-radius: 5px;
+  border: solid 2px lightgrey;
+  background-color: white;
+  color: lightgrey;
+  border-width: 1px;
+  height: 25px;
+}
+.text_button{
+  padding: 8px;
+}
+
+.text{
+  padding: 4% 8%;
+}
+.section{
+  margin-bottom: 5%;
+}
+li{
+  list-style: none;
+}
+h3{
+  font-weight: 800;
+}
+.symbol{
+  font-size: 12px;
+}
+.space li{
+  margin-top: 2%;
+}
+.check{
+  border: solid 1px green;
+  border-radius: 100%;
+  color: green;
+}
+.uncheck{
+  border: solid 1px red;
+  border-radius: 100%;
+  color: red;
+}
+.task{
+  font-weight: 600;
+}
+.type{
+  color: white;
+  font-size: 10px;
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+.editorial{
+  background-color: #00b2ffd4;
+  border: #00b2ffd4;
+}
+.Q1_goals{
+  background-color: #bd06ff;
+  border: #bd06ff;
+}
+.Recruiting{
+  background-color: #19d89f;
+  border: #19d89f;
+}
+.Mobile{
+  background-color: orange;
+  border: orange;
+}
+.Website{
+  background-color: #e663a8;
+  border: #e663a8;
+}
+.Sales{
+  background-color: #abcf2e;
+  border: #abcf2e;
+}
