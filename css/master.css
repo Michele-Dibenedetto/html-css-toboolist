@@ -80,9 +80,10 @@ h3{
   border: solid 1px green;
   border-radius: 100%;
   color: green;
+
 }
 .uncheck{
-  border: solid 1px red;
+  border: solid 1px red;y
   border-radius: 100%;
   color: red;
 }
@@ -118,4 +119,40 @@ h3{
 .Sales{
   background-color: #abcf2e;
   border: #abcf2e;
+}
+
+.foot_container{
+  background-color: #64e8f28f;
+  width: 50%;
+  margin: 4% auto;
+}
+.sign_in{
+  text-align: center;
+  padding-top: 4%;
+
+}
+.foot{
+  margin: 4% 4%;
+  width: 40%;
+  height: 23px;
+  border-radius: 20px;
+  border: solid 1px white;
+}
+.description{
+  margin-left: 7%;
+  display: block;
+}
+.privacy{
+  display: inline-block;
+  width: 40%;
+  margin: 4% 30% 2%;
+}
+.send{
+  width: 40%;
+  margin: 0 40%;
+}
+#button{
+  background-color: #abcf2e;
+  color: white;
+  border: none;
 }
